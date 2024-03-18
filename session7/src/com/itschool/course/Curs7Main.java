@@ -7,25 +7,17 @@ import java.util.Scanner;
 public class Curs7Main {
 //COURSE 5-6 HOMEWORK
 //EX 1.
-//        public static void main(String[] args) {
-//            String stringOne = "OpenAI";
-//            String stringTwo = "OpenAI";
-//
-//            boolean areSameObject = (stringOne == stringTwo);
-//
-//            System.out.println("Do stringOne and stringTwo refer to the same object? " + areSameObject);
-//        }
-//    }
+        public static void main(String[] args) {
+            String stringOne = "OpenAI";
+            String stringTwo = "OpenAI";
 
-//EX 3.
-//    public static void main(String[] args) {
-//        int age = 20;
-//        if (age >= 18) {
-//            System.out.println("I am an adult.");
-//        } else {
-//            System.out.println("I am not an adult.");
-//        }
-//    }
+            boolean areSameObject = (stringOne == stringTwo);
+
+            System.out.println("Do stringOne and stringTwo refer to the same object? " + areSameObject);
+        }
+
+
+
 //}
 //    public static void main(String[] args) {
 //        int x = 5;

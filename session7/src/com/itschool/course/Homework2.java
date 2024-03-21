@@ -15,4 +15,13 @@ public class Homework2 {
             System.out.println("Odd");
         }
     }
+    //EX 3.
+    public static void ex3() {
+        int age = 20;
+        if (age >= 18) {
+            System.out.println("I am an adult.");
+        } else {
+            System.out.println("I am not an adult.");
+        }
+    }
 }
